@@ -1,0 +1,2 @@
+Google_api_key="AIzaSyD00-x-CTJQB-rqjXOw5ZIDBYNweNboZfI"
+Groq_api_key= "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"
